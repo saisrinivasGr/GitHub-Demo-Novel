@@ -3,4 +3,6 @@ Chapter-01
 
 And as we previously talked about in the last video, we use two commands because that allows us to
 separate out particular changes we've made.We can I think I used the imagery of tweezers.
-We can tweeze them out and select them before we make a commit so we can group things together.And this get ad command is what enables that to happen.So once we've done some work, we've actually made changes.
+We can tweeze them out and select them before we make a commit so we can group things together.
+
+
