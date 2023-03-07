@@ -1,5 +1,0 @@
-
-Title Name: jay Getsby
-
-We then call those changes out using the get ad command to stage them for a commit and then we can make
-a commit.And in this video we're focusing on the first piece. And before we can do anything with Git, we need to make some changes. We need to do that first part, work on stuff. End of tag
